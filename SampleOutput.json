@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Shock as old Shane Warne tweet comes true",
+            "description": "Shane Warne continues to prove he had one of the greatest cricket brains the sport has ever encountered.",
+            "url": "https://www.news.com.au/sport/cricket/shane-warne-predicted-travis-heads-heroics-way-back-in-2016/news-story/99a39962a5577319a0f8b91ed0007088",
+            "urlToImage": "https://content.api.news/v3/images/bin/618be687f9026b84c39b2fdeeaecec41",
+            "publishedAt": "2023-11-20T06:24:00Z",
+            "content": "Shane Warne continues to prove he had one of the greatest cricket brains the sport has ever encountered.\r\nThe late Australian Spin King delivered once again, with a tweet from seven years ago resurfa… [+2799 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Aussie star’s cocky post mars all-time win",
+            "description": "The Australian men’s cricket team is the toast of the sporting world on Monday following a Cricket World Cup victory that few saw coming.",
+            "url": "https://www.news.com.au/sport/cricket/world-cup/dave-warner-cant-resist-dig-at-home-fans-after-aussie-world-cup-triumph/news-story/f6fea8100c7cd18f2a4bbe4e7635666b",
+            "urlToImage": "https://content.api.news/v3/images/bin/1d6ba7c0c6f8c4a2c09c62a24df8de64",
+            "publishedAt": "2023-11-20T06:21:00Z",
+            "content": "The Australian men’s cricket team is the toast of the sporting world on Monday following a Cricket World Cup victory that few saw coming.\r\nThe Aussies were huge underdogs for the final against hosts … [+2901 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Zee News",
+            "title": "AUS: 241-4 (43) | IND VS AUS Final, CWC 2023 LIVE Cricket Score and Updates: ICC Shares Pics Of Maxwell Hugging Kohli - Zee News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL2NyaWNrZXQvbGl2ZS11cGRhdGVzL2hpZ2hsaWdodHMtaW5kLXZzLWF1cy1maW5hbC1jd2MtMjAyMy1mdWxsLXNjb3JlY2FyZC1hdXN0cmFsaWEtYmVhdC1pbmRpYS1ieS02LXdpY2tldHMtdG8tY2xpbmNoLXJlY29yZC1leHRlbmRpbmctc2l4dGgtdGl0bGUtMjY4OTQ5NdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-11-20T03:40:16+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Jack Cunningham",
+            "title": "Travis Head stuns over 100,000 India cricket fans with excellent century as Australia close on World Cup...",
+            "description": "Travis Head stunned over 100,000 Indian cricket fans with an excellent century in the World Cup final. The Australian batter became just the third Aussie to score a 100 in a World Cup final as Aust…",
+            "url": "https://talksport.com/sport/1646913/travis-head-century-cricket-world-cup-final-india-australia/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/11/Travis-Head.jpg?strip=all&quality=100&w=1142&h=793&crop=1",
+            "publishedAt": "2023-11-19T15:37:14Z",
+            "content": "Travis Head stunned over 100,000 Indian cricket fans with an excellent century in the World Cup final.\r\nThe Australian batter became just the third Aussie to score a 100 in a World Cup final as Austr… [+823 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Head's unbeaten 50 puts Australia in strong position",
+            "description": "Watch the best shots from Travis Head's unbeaten 50 for Australia against India in the Cricket World Cup final in Ahmedabad.",
+            "url": "http://www.bbc.co.uk/sport/av/cricket/67467650",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/180FC/production/_131765589_p0gtnnpn.jpg",
+            "publishedAt": "2023-11-19T15:07:18.490014Z",
+            "content": "Watch the best shots from Travis Head's unbeaten 50 for Australia against India in the Cricket World Cup final in Ahmedabad. \r\nFOLLOW: India v Australia \r\nAvailable to UK users only."
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
